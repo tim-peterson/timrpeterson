@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm a postdoc at Harvard in molecular biology. I've created [Onarbor](https://onarbor.com/) and previously, [Leangap](https://leangap.com/).
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+My lab site will be available soon at: [lab.timrpeterson.com](http://lab.timrpeterson.com/)
+
+[Linkedin](https://www.linkedin.com/petersontimr)
 
 You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
