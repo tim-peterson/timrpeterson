@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I'm a postdoc at Harvard in molecular biology. I've created [Onarbor](https://onarbor.com/) and previously, [Leangap](https://leangap.com/).
+I'm a postdoc at Harvard in molecular biology. Starting next July (2016) I'm going to be a assistant professor in the department of medicine at Washington University St. Louis.
+
+I've created [Onarbor](https://onarbor.com/) and previously, [Leangap](https://leangap.com/).
 
 My lab site will be available soon at: [lab.timrpeterson.com](http://lab.timrpeterson.com/)
 
