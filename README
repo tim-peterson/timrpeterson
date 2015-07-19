@@ -1,1 +1,3 @@
-blog.timrpeterson.com
+[http://blog.timrpeterson.com](http://blog.timrpeterson.com)
+
+`$ bundle exec jekyll serve`
