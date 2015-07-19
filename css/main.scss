@@ -6,7 +6,7 @@
 
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: "jaf-bernino-sans", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -54,5 +54,33 @@ $on-laptop:        800px;
 
 .site-header {
   border-top: 5px solid $white-color;
+}
 
+#mc_embed_signup form{
+  font-family:$base-font-family !important;
+}
+
+#mc_embed_signup label{
+  font-family:$base-font-family !important;
+}
+#mc_embed_signup input.email{
+  border-radius: 3px;
+  border-color:$grey-color-light
+}
+#mc_embed_signup input.button{
+  background: lighten($brand-color, 15%)
+}
+
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:2px solid #ff0000;
+}
+
+th{
+    border:2px solid #000000;
+}
+
+td{
+    border:1px solid #000000;
 }

@@ -9,7 +9,7 @@ permalink: /about/
 
 <!--![/img/tim-better.jpg](/img/tim-better.jpg)-->
 
-I'm a postdoc at Harvard in molecular biology. Starting next July (2016), I'm going to be an assistant professor in the department of medicine at Washington University St. Louis. I study genomics, metabolomics and the quantified self of aging and mental health. Currently, I'm working on osteoporosis project.
+I'm a postdoc at Harvard in molecular biology. Starting next July (2016), I'm going to be an assistant professor in the department of medicine at Washington University St. Louis. I study genomics, metabolomics and the quantified self of aging and mental health. Currently, I'm working on an osteoporosis project.
 
 I've created [Onarbor](https://onarbor.com/) and previously, [Leangap](https://leangap.com/).
 
