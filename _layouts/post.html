@@ -12,4 +12,9 @@ layout: default
     {{ content }}
   </article>
 
+  <footer>
+    {% if page.comments %}
+    {% include comments.html %}
+    {% endif %}
+  </footer>
 </div>

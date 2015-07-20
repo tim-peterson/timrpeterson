@@ -3,10 +3,12 @@ layout: post
 title:  "Academia is Detroit"
 date:   2014-11-14 06:50:48
 categories: academia Onarbor Detroit MOOCs Kickstarter Stackoverflow
+comments: True
 ---
 
 
-{% twitter oembed https://twitter.com/balajis/status/533508051450347520 %}
+<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr">One deduction: the arbiters of mainstream approval (and consequent rewards) are on the precipice of a calamitous diminution in influence.</p>&mdash; Balaji S. Srinivasan (@balajis) <a href="https://twitter.com/balajis/status/533508051450347520">November 15, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 Detroit is synonymous with epic collapse. Once proud and a world-leading economic center, it has hopelessly lost it way in terms of human capital and infrastructure. Like Detroit, I think we are as Balaji puts it, “on the precipice of a calamitous diminution in influence” in academia. The cause of the decline, though unsurprising for Detroit, will be rather remarkable for academia—failing to adapt to new technology. While new technologies such as MOOCs have taken a first shot at the university model, many more approaches will be needed. Universities are no different from any organization in requiring money and power to maintain/bolster their positions. MOOCs so far haven’t figured out a way to accumulate either.

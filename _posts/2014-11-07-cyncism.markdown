@@ -2,7 +2,8 @@
 layout: post
 title:  "Cynicism"
 date:   2014-11-07 06:50:48
-categories: commenting_threads know-it-all 
+categories: commenting_threads know-it-all
+comments: True
 ---
 
 ![cynicism.png](/img/cynicism.png)
