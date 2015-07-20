@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "All of college should be 'one and done' like the NBA"
-date:   2014-09-15 06:50:48
-categories: college, nba
+date:   2014-10-18 06:50:48
+categories: college nba 
 ---
 
 

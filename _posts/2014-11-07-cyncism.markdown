@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Cynicism"
-date:   2014-08-28 06:50:48
-categories: commenting_threads,wicked smmart
+date:   2014-11-07 06:50:48
+categories: commenting_threads know-it-all 
 ---
 
 ![cynicism.png](/img/cynicism.png)

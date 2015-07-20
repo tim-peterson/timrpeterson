@@ -11,3 +11,5 @@ linkedin_username:  petersontimr
 
 # Build settings
 markdown: kramdown
+
+gems: ['jekyll-twitter-plugin']

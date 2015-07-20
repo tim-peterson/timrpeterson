@@ -15,11 +15,17 @@
 
       <div class="trigger">
         <a class="page-link" href="http://lab.timrpeterson.com">Lab</a>
+
+
+
         {% for page in site.pages %}
           {% if page.title %}
+          {% if page.url != "/404.html" %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+            {% endif %}
           {% endif %}
         {% endfor %}
+
 
       </div>
     </nav>
