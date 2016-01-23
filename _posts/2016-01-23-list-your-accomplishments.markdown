@@ -2,7 +2,7 @@
 layout: post
 title:  "List Your Accomplishments"
 date:   2016-01-23 10:37:00
-categories: entrepreneurship career power prestige game-theory
+categories: ['accomplishments', 'entrepreneurship', 'career', 'power' , 'prestige' ,'game-theory']
 comments: True
 ---
 
