@@ -2,7 +2,7 @@
 layout: post
 title:  "List Your Accomplishments"
 date:   2016-01-23 11:25:00
-categories: 
+categories:
 comments: True
 ---
 
@@ -13,8 +13,8 @@ Make a list of your accomplishments. Write them down. All of them. Regularly. Th
 ### What the people in your life are thinking
 Nobody will remember what you've done. People will attribute your accomplishments to other people or not remember them at all. It only makes sense we know our accomplishments best. Don't expect others to know what you've done. Write down what you've done so you can remember them.
 
-### Evidence of successful people who do this
-Donald Trump loves telling you all the things he's accomplished, and you know what...its a highly effective communication strategy. His kids have even more opportunity then he had at the same age but they do not have the same success because they don't communicate like he does. Being quick in conversations matters. Writing down your accomplishments will make recalling them in crucial situations easier.
+### Successful people who do this
+Donald Trump loves telling you all the things he's accomplished, and you know what...it's highly effective. Don't roll your eyes. He makes lists and you know who he is. His kids have even more opportunity then he had at the same age but they do not have the same success because they don't communicate like he does. Being quick in conversations matters. Writing down your accomplishments will make recalling them in crucial situations easier.
 
 ### Areas of life where this is useful
 All of them. It is useful in your personal life. Increasingly women and men are sharing responsibilities in raising families. Making a list of your accomplishments clarifies your contribution as mother or father. Families are chaos. Do your family a favor and create some order.
