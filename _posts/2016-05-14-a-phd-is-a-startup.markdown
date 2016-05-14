@@ -6,7 +6,7 @@ categories:
 comments: True
 ---
 
-## **PhD == Startup. The governments and universities should leverage this truthiness and the good ones will.** 
+## **PhD == Startup. Governments and universities should leverage this truthiness and the good ones will.** 
 
 
 #### All the contrasts are actually comparisons.
@@ -18,5 +18,5 @@ The business - Some people will say business != research project. One is to make
 
 The founder - Just out of college, the PhD/CEO student is clueless but hungry. They want to learn. During your phd/startup you will. Also, length of your phd/startup, 3-6 years, is great amount of time to learn how to learn. After that, you can do whatever. You will be better at the next thing.
 
-Stanford is known for promoting entrepreneurship and for their professors embracing the phd/startup mindset (Google co-founders being a most famous example). Harvard is famously not. Betting against Harvard is like betting against the Yankees. Strange things happen in sports though, Steph Curry, so I wouldn't be too surprised by the same happening in academics. 
+Stanford embraces the phd/startup mindset (Google co-founders being a most famous example). Harvard - with its litigate first stance - famously does not. Betting against Harvard is like betting against the Yankees. Strange things happen in sports though, Steph Curry, so I wouldn't be too surprised by the same happening in academics. 
 
