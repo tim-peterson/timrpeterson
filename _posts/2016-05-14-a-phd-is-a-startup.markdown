@@ -18,5 +18,5 @@ The business - People will say business != research project. One is to make mone
 
 The founder - Just out of college, the CEO/PhD student is clueless but hungry. They want to learn. During your grad school startup you will. Also, the typical length of the phd/startup, 3-6 years, is a realistic amount of time that it takes to learn how to learn. Success or failture, after that, you can do whatever. You will be better at the next thing.
 
-Stanford embraces the phd/startup mindset (Google co-founders being a most famous example). Harvard - with its *litigate first* stance - does not. Betting against Harvard is like betting against the Yankees. Strange things happen in sports though, Steph Curry, so I wouldn't be too surprised by the same happening in academics. 
+The zeitgeist - Stanford embraces the phd/startup mindset (Google co-founders being a most famous example). Harvard - with its *litigate first* stance - does not. Betting against Harvard is like betting against the Yankees. Strange things happen in sports though, Steph Curry, so I wouldn't be too surprised by the same happening in academics. If you say "meh", to that *anything is possible* argument, I can spell out why more universities should care about ROI, T-u-i-t-i-o-n b-u-b-b-l-e.  
 
