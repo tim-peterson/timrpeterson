@@ -7,7 +7,7 @@ comments: True
 ---
 
 
-Let's face it, Facebook and Twitter are media companies. The major TV networks were both doing cutting edge tech once until the technology became ubiquitous. Now they are old, boring media companies. This day is rapidly approaching for social networks.
+Let's face it, Facebook, Snapchat, Instagram, Pinterest, and Twitter are media companies. The major TV networks were both doing cutting edge tech once until the technology became ubiquitous. Now they are old, boring media companies. This day is rapidly approaching for social networks.
 
 Stratchery and others have commented on how FB biases everything towards what your friends think, creating a myopic world view. To win, Twitter doesn't have to be more open. It can be "fair & balanced" because you know, Fox News's money is the same color as NBC's. Don't be literal though. I'm not saying Twitter should go crazy conservative to counterbalance's FB's left-leaning "journalism" (though I think being the more irreverent media company to counterbalance FB's staid lady grey approach would be smart). It's more that Twitter can win by just accepting itself as a media company. FB sponsored stories make it clear that FB has known this for awhile. 
 
