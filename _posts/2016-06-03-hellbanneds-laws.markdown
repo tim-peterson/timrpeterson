@@ -15,6 +15,6 @@ comments: True
 
 2. Regardless how sophisticated a social network's hellbanning strategy, this network will undoubtedly be obsoleted by its hellbanning strategy.
 
-3. Teenagers and programmers are not coincidentally the two largest cohorts of hellbanners.
+3. Teenagers and programmers are not coincidentally the two most likely to hellban.
 
 
