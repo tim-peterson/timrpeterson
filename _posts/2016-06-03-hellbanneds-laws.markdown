@@ -12,7 +12,6 @@ comments: True
 ### Peterson's Hellbanned Laws
 
 1. Those who comment on internet voting will, on average, get downvoted themselves.
-reply
 
 2. Regardless how sophisticated a social network's hellbanning strategy, this network will undoubtedly be obsoleted by its hellbanning strategy.
 
