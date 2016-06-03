@@ -9,7 +9,7 @@ comments: True
 
 [Hellbanning](https://en.wikipedia.org/wiki/Stealth_banning) *is a practice used by some online community managers to block content added by spammers and Internet trolls, as well as other individuals whose interests do not coincide with the managers*
 
-Peterson's Hellbanned Laws
+### Peterson's Hellbanned Laws
 
 1. Those who comment on internet voting will, on average, get downvoted themselves.
 reply
