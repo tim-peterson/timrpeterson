@@ -9,7 +9,7 @@ comments: True
 
 ### My crappy city is better than your cool city.
 
-So if you are a young person wanting to work in the US in a cool industry, you gotta live in a cool city. The cool cities are SF/NYC/Boston/LA. The crappy cities are more or less any major city in the Midwest like St. Louis. 
+So if you are a young person wanting to work in a cool industry, you gotta live in a cool city. In the US, the cool cities are SF/NYC/Boston/LA. The crappy cities are more or less any major city in the Midwest like St. Louis. 
 
 I lived in Boston, i.e., Cambridge, for the last 12 years. I've also lived significant periods of time in Philadelphia, PA; Washington D.C., Fort Wayne, Indiana; Augusta, Georgia; Princeton, New Jersey; and Ann Arbor, Michigan. For about the last 6 years I wanted to live in the bay area-SF. I've been to the bay area about a dozen times and followed the tech scene closely and what people said about living there. Now I live in St. Louis. St. Louis is better than your cool city.
 
