@@ -2,7 +2,7 @@
 layout: post
 title:  "Geographic Cure"
 date:   2016-06-16 12:50:48
-categories: work-location quality-of-life college-town
+categories:
 comments: True
 ---
 
@@ -21,7 +21,7 @@ The "college town" part of St. Louis around WashU is called University city (UCi
 
 Moving 10 minutes away from the university is the same in both cities. It's lame. It's chain stores. Not worth putting lipstick on either pig.
 
-I've lived around five major universities. The people themselves are smart/cool/interesting/whatever-matters-to-you in the same way. Its not a differentiator. Yet, if you want to talk kindness, St. Louis has much higher basal kindness. This matters. Their kindness will make you kinder. The human race, FTW I'm not even joking. 
+I've lived around five major universities. The people themselves are smart/cool/interesting/whatever-matters-to-you in the same way. Its not a differentiator. Yet, if you want to talk kindness, St. Louis has much higher basal kindness. This matters. Their kindness will make you kinder. The human race FTW I'm not even joking. 
 
 Cost of living is well known to be dramatically better in the midwest, so I won't rub that in. And if you have a family or want to start one, don't even. 
 
